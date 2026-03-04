@@ -10,7 +10,7 @@ df = pd.read_csv("data/student_data.csv")
 st.success("Student dataset loaded successfully")
 
 st.subheader("📄 Student Data")
-st.dataframe(df, use_container_width=True)
+st.dataframe(df, width="stretch")
 
 # ---------------- PREDICTION ----------------
 def predict_risk(row):
@@ -33,7 +33,7 @@ if st.button("Predict for All Students"):
             return "background-color:green;color:white"
 
     st.subheader("📊 Risk Prediction")
-    st.dataframe(df.style.applymap(color_risk, subset=["risk_level"]), use_container_width=True)
+    st.dataframe(df.style.applymap(color_risk, subset=["risk_level"]), width="stretch")
 
     st.subheader("📧 Send Alerts")
 

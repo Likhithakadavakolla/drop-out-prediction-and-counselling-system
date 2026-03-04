@@ -1,11 +1,12 @@
-student_id,attendance,marks,attempts,guardian_email,mentor_email
-1,90,90,0,kadavakollalikhitha@gmail.com,likhitha281004@gmail.com
-2,27,75,2,reddysuresh9014@gmail.com,likhitha281004@gmail.com
-3,75,82,0,praneethreddy.kadavakolla@gmail.com,likhitha281004@gmail.com
-4,65,44,1,kadavakollalikhitha@gmail.com,likhitha281004@gmail.com
-5,100,66,0,vinayaprasad2002@gmail.com,likhitha281004@gmail.com
-6,50,30,5,edureachtech@gmail.com,likhitha281004@gmail.com
-7,35,18,3,ABHINAV.20221IST0064@presidencyuniversity.in,likhitha281004@gmail.com
-8,70,50,0,GANGULA.20221IST0067@presidencyuniversity.in,likhitha281004@gmail.com
-9,42,50,1,fairytaleconfession@gmail.com,likhitha281004@gmail.com
-10,67,37,4,likhithakadavakolla@gmail.com,likhitha281004@gmail.com
+student_id,name,attendance,marks,attempts,guardian_email,mentor_email
+1,Likhitha K,90,90,0,kadavakollalikhitha@gmail.com,likhitha281004@gmail.com
+2,Suresh Reddy,27,75,2,reddysuresh9014@gmail.com,likhitha281004@gmail.com
+3,Praneeth Reddy,75,82,0,praneethreddy.kadavakolla@gmail.com,likhitha281004@gmail.com
+4,Kadavakolla Student,65,44,1,kadavakollalikhitha@gmail.com,likhitha281004@gmail.com
+5,Vinaya Prasad,100,66,0,vinayaprasad2002@gmail.com,likhitha281004@gmail.com
+6,Edureach Tech,50,30,5,edureachtech@gmail.com,likhitha281004@gmail.com
+7,Abhinav,35,18,3,ABHINAV.20221IST0064@presidencyuniversity.in,likhitha281004@gmail.com
+8,Gangula Student,70,50,0,GANGULA.20221IST0067@presidencyuniversity.in,likhitha281004@gmail.com
+9,Fairytale C,42,50,1,fairytaleconfession@gmail.com,likhitha281004@gmail.com
+10,Likhitha K2,67,37,4,likhithakadavakolla@gmail.com,likhitha281004@gmail.com
+11,Test Student,45,32,4,reddix.lpu@gmail.com,reddix.lpu@gmail.com
